@@ -1,4 +1,5 @@
 Class Hello{
 hi world
 hi people
+hi sergey
 }
